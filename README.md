@@ -24,8 +24,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrham-yalew&show_icons=true&locale=en&theme=tokyonight" alt="Abrham's GitHub stats" />
-</p>
